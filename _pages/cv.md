@@ -44,17 +44,14 @@ Work experience
   
 Skills
 ======
-* **Languages:** Java, Python 
-* **Tools:** Eclipse, jupyter notebook, VS code, Git, Jenkins, Jira
-* **Machine Learning:** Tensorflow, Keras, PyTorch, scikit-learn, numpy, matplotlib, Spark Mlib, OpenCV 
-* **Data Management and Analytics:** SQL, Weka, Tableau, NLTK, R, Hadoop
-* **Web Development:** HTML, CSS, Bootstrap, Adobe Experience Manager (AEM 6.2), JSON, Javascript, Django
+* **Languages:** Python, Node.js, JavaScript, HTML, CSS
+* **Tools:** Github, Jenkins, Atlassian Tools(Bitbucket, Jira, Confluence),Sonarqube, Kubernetes, Deocker, Terraform, Prometheous, Grafana, Dynatrace, Helm
+* **Cloud:** AWS Cloud [S3, EC2, IAM, Lambda, ECS, EKS, CloudWatch, DynamoDB, CodePipeline, API Gateway, VPC, Subnets, Kibana], GCP
+* **Machine Learning:** Tensorflow, scikit-learn, numpy, matplotlib, Spark Mlib, OpenCV 
+* **Data Management and Analytics:** SQL, Oracle DB
+* **Personal Skills:** Commnuication, Collaboration, Bias for Action, Mentorship
+* **Certifications:** Hashicorp Terraform Associate
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -68,7 +65,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Accolades
 ======
-* Software Developer for [Vivekanad Seva Mandal](https://www.vsmandal.org/), Dombivli (Non-profit), 2014
-* Software Developer for [iTechSkills Academy](https://itechskills.ca/), Mississauga, Canada (Non-profit), 2021
+* Awarded Best Performing Employee in DXC Technology in 2nd and 3rd Quater.
