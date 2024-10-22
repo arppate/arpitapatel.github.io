@@ -13,12 +13,12 @@ main:
     url: /talks/    
 
   - title: "Softwares"
-    url: /teaching/    
+    url: /Softwares/    
     
   - title: "Unacademic"
-    url: /portfolio/
+    url: /Unacademic/
         
   - title: "Posts"
-    url: /year-archive/
+    url: /Posts/
     
  
