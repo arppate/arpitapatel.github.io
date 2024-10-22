@@ -12,9 +12,9 @@ title                    : "Arpita Patel"
 title_separator          : "-"
 name                     : &name "Arpita Patel"
 description              : &description "Always Curious"
-url                      : "https://arpitapatel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://arppate.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arppate/arpitapatel.github.io"
+repository               : "arppate/arppate.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/arppate"
+  github           : "arppate"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/arpitapat"
+  linkedin         : "arpitapat"
   mastodon         : # URL
-  medium           : "https://arpitapat/medium.com"
+  medium           : "arpitapat"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
